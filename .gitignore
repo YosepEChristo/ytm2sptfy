@@ -41,6 +41,10 @@ backend/*.pyc
 backend/*.pyo
 backend/*.pyd
 backend/.python-version
+backend/.mypy_cache/
+backend/.pytest_cache/
+backend/__pypackages__/
+
 
 # Byte-compiled / optimized / DLL files
 *.py[cod]
